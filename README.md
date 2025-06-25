@@ -38,8 +38,8 @@ I mostly work with Docker, Kubernetes and cloud-based technologies 🚀.
 ## Take a look at some of the coolest projects I've worked on - 
 1. [Asynchronous HTTP server](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket)
    
-     created a HTTP server from scratch to understand the concept of TCP protocol in detail and as well as HTTP text based data excahange between client and server.4
-     If you want to read more about the it, the hit the [markdown page](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket) I prepared for you to get in-depth knowledge about how communication happens over the network.
+     Built a custom HTTP server from scratch to deepen my understanding of the TCP protocol and how HTTP enables text-based communication between a client and server.
+      If you're curious to learn more, check out the detailed [markdown](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket) guide I’ve put together—it's a deep dive into how data flows over a network.
    
 3. [OIDC-WITH-AZURE-END-TO-END-SOLUTION](https://github.com/sourabh748/OIDC-WITH-AZURE-END-TO-END-SOLUTION)
 
