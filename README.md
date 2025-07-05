@@ -17,7 +17,7 @@ I mostly work with Docker, Kubernetes and cloud-based technologies 🚀.
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFtcmhlaHVmdWtwcXdoNWlta2ZvNmUxNmF4N2NmY3h0bWVydHdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="60px" width="60px"/>
   </a>
   <a href="https://grpc.io/" target="_blank" >
-    <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd0gbtzxgysius4xo2thh.gif"  height="60px" width="60px" />
+    <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd0gbtzxgysius4xo2thh.gif" height="150px" width="150px" />
   </a>
  </p>
 
