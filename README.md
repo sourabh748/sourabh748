@@ -38,9 +38,10 @@ I mostly work with Docker, Kubernetes and cloud-based technologies 🚀.
 ## Take a look at some of the coolest projects I've worked on - 
 1. [Asynchronous HTTP server](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket)
    
-     Built a custom HTTP server from scratch to deepen my understanding of the TCP protocol and how HTTP enables text-based communication between a client and server.
+     Build a custom HTTP server from scratch to deepen my understanding of the TCP protocol and how HTTP enables text-based communication between a client and server.
       If you're curious to learn more, check out the detailed [markdown](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket) guide I’ve put together—it's a deep dive into how data flows over a network.
-   
+2. [ado-agent on Kubernetes with integration of KEDA](https://github.com/sourabh748/ado-agent-k8s)
+     
 3. [OIDC-WITH-AZURE-END-TO-END-SOLUTION](https://github.com/sourabh748/OIDC-WITH-AZURE-END-TO-END-SOLUTION)
 
 Certifications ( Targeting for AZ-104 )
