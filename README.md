@@ -53,4 +53,4 @@ Certifications ( Targeting for AZ-104 )
 ## "If my profile caught your eye, feel free to connect with me
 
   - connect me on [LinkedIn](https://www.linkedin.com/in/sourabh-suman-b1803622b/) 🖇️
-  Drop me an SOS at sourabh.7687@gmail.com — I'd love to connect! 📧
+  - Drop me an SOS at sourabh.7687@gmail.com — I'd love to connect! 📧
