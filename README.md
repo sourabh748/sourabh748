@@ -41,8 +41,9 @@ I mostly work with Docker, Kubernetes and cloud-based technologies 🚀.
      Build a custom HTTP server from scratch to deepen my understanding of the TCP protocol and how HTTP enables text-based communication between a client and server.
       If you're curious to learn more, check out the detailed [markdown](https://github.com/sourabh748/Custom-HTTP-Asynchronous-socket) guide I’ve put together—it's a deep dive into how data flows over a network.
 2. [ado-agent on Kubernetes with integration of KEDA](https://github.com/sourabh748/ado-agent-k8s)
-     
-3. [OIDC-WITH-AZURE-END-TO-END-SOLUTION](https://github.com/sourabh748/OIDC-WITH-AZURE-END-TO-END-SOLUTION)
+       In this Project, I have built a custom container image of an Azure DevOps agent, which I deployed on Kubernetes, creating similar replicas when jobs in a particular pool increase I achives this behaviour
+         With the help of KEDA (Kubernetes event driven Autoscaler ), which continuously polls for jobs in a queue and triggers the hpa.
+4. [OIDC-WITH-AZURE-END-TO-END-SOLUTION](https://github.com/sourabh748/OIDC-WITH-AZURE-END-TO-END-SOLUTION)
 
 Certifications ( Targeting for AZ-104 )
 
@@ -52,4 +53,4 @@ Certifications ( Targeting for AZ-104 )
 ## "If my profile caught your eye, feel free to connect with me
 
   - connect me on [LinkedIn](https://www.linkedin.com/in/sourabh-suman-b1803622b/) 🖇️
-  - Drop me an sos.sourabh.7687@gmail.com —I'd love to connect! 📧
+  Drop me an SOS at sourabh.7687@gmail.com — I'd love to connect! 📧
